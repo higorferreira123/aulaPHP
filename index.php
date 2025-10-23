@@ -8,18 +8,15 @@
 </head>
 <body>
     
-    <div class="menu"> 
-        <div>
-            <a href="#">Cadastrar</a>
-            <a href="#">Cunsultar</a>
-        </div>
-
+    <?php include "menu.php" ?>
+ 
+</div>
     <div class="conteudo"> 
         <h3>Integração de PHP com MySQL</h3>
            
         <p>
             Na aula de hoje, vamos estudar como integrar o PHP com MySQL
-
-
+        </p>
+</div>
 </body>
 </html>

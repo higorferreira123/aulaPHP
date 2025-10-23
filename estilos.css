@@ -39,6 +39,9 @@ h1
     width: 700px;
     border: 1px solid rgb(96,0,0);
     border-radius: 10px;
+    margin: 10px auto;
+    padding: 10px;
+    box-shadow: 5px 5px 10px blue;
 
 }
 
