@@ -15,7 +15,7 @@
 
         <h3> Cadastro de alunos </h3>
 
-    <form action="#" method="post">
+    <form action="aluno_cadastro1.php" method="post">
 
         <p>
             Digte o nome do aluno <br>
