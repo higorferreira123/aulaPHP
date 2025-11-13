@@ -18,14 +18,14 @@ h1
 {
     display: flex;
     justify-content: space-between;
-    
     background-color: rgb(96,0,0);
     padding: 10px;
     color: white;
-    font-size: 20px;
+    margin: 10px;
+    font-size: 10px;
 }
 
-.menu a
+.menu > a
 {
     color: white;
 }

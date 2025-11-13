@@ -11,7 +11,7 @@
     
     <?php include "menu.php" ?>
 
-    <div class="conteudo";>
+    <div class="conteudo">;
 
         <h3> Cadastro de alunos </h3>
 
