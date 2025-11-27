@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aluno Cadastro</title>
+    <title>Curso Cadastro</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
@@ -11,18 +11,14 @@
 <?php include "menu.php" ?>
    <div class="conteudo">
 
-    <h3> Cadastro de Alunos </h3>
-    <form method="post" action="aluno_cadastro1.php">
+    <h3> Cadastro de Cursos </h3>
+    <form method="post" action="curso_cadastro1.php">
 
-            <p>Informe o nome do aluno:<br>
+            <p>Informe o nome do curso:<br>
             <input type="text" name="nome">
             </p>
-            <p>Informe a cidade:<br>
-            <input type="text" name="cidade">
-            </p>
-
-            <p>Informe o estado:<br>
-            <input type="text" name="estado">
+            <p>Informe o nome do coordenador:<br>
+            <input type="text" name="coordenador">
             </p>
             <p>
 
@@ -33,5 +29,3 @@
 
 <body>
     <html>
-
-          

@@ -1,38 +1,21 @@
-body
-{
-    margin:0;
-    padding:0;
-}
+body{
 
-h1
-{
-    margin:0;
-    background-color: rgb(96,0,0);
-    color:white;
-    text-align: center;
-    padding: 30px;
-
+    margin: 0;
+    padding: 0;
 }
 
 .menu
 {
-    display: flex;
-    justify-content: space-between;
-    background-color: rgb(96,0,0);
-    padding: 10px;
-    color: white;
-    margin: 10px;
-    font-size: 10px;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: rgb(96,0,0);
 }
 
-.menu > a
+.menu a
 {
-    color: white;
-}
-
-.menu a:hover
-{
-    text-decoration-color: orange;
+ color: white;
+ font-size: 20px;
 }
 
 .conteudo
@@ -41,25 +24,42 @@ h1
     border: 1px solid rgb(96,0,0);
     border-radius: 10px;
     margin: 10px auto;
+    box-shadow: 5px 5px 10px rgb(97, 0, 0);
     padding: 10px;
-    box-shadow: 5px 5px 10px blue;
-
 }
-input[type="text"], input[type="number"]
+
+.conteudo input[type=text]
 {
-    width: 100%;
-    box-sizing: border-box;
-    padding: 10px;
-    font-size: 20px;
+   width: 100%;
+   box-sizing: border-box;
+   padding: 5px;
+   font-size: 20px;
 }
 
-input[type="submit"]
+.conteudo input[type=submit]
 {
-    width: 200%;
-    padding: 10px;
-    background-color: rgb(96,0,0);
-    color: white;
-    border: none;
-    font-size: 20px;
+  width: 150px;
+  padding: 10px;
+  background-color: rgb(96,0,0);
+  color: white;
+  font-size: 20px;
+  border: none;
 }
 
+table, td, th
+{
+  border: 1px solid rgb(96,0,0);
+  border-collapse: collapse;
+  padding: 5px;
+}
+
+th
+{
+  background-color: rgb(96,0,0);
+  color: white;
+}
+
+table
+{
+  width: 100%;
+}

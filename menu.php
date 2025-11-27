@@ -1,20 +1,11 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-<div class="menu"> 
-        <div>
-            Aula BD
+ <div class="menu">       
+    <div>
+            <a href="index.php">Aula BD</a>
         </div>
 
-        <div>
+         <div>
             <a href="aluno_cadastro.php">Cadastrar</a>
-            <a href="#">Consultar</a>
+            <a href="aluno_consulta.php">Consultar</a>
+            <a href="curso_cadastro.php">Curso.Cadastrar</a>
         </div>
-</body>
-</html>
+    </div>
