@@ -22,15 +22,15 @@
      </tr>
 
      <tr>
-     <td> 1001 </td>
-     <td> Rogerio </td>
+     <td> 101 </td>
+     <td> Hamilton </td>
      <td> Informatica </td>
      <td> Informática com enfase Gestão </td>
 </tr>
 
 <tr>
-     <td> 1002 </td>
-     <td> Aldy </td>
+     <td> 102 </td>
+     <td> Guilherme </td>
      <td> Informatica </td>
      <td> Ciência da Computação </td>
 </tr>

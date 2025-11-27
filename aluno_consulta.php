@@ -23,8 +23,15 @@
 
      <tr>
      <td> 1 </td>
-     <td> Gabriel </td>
-     <td> Caconde </td>
+     <td> Higor </td>
+     <td> Casa Branca </td>
+     <td> SP </td>
+</tr>
+ 
+     <tr>
+     <td> 2 </td>
+     <td> Isabelli </td>
+     <td> São José do Rio Pardo </td>
      <td> SP </td>
 </tr>
    </table>
